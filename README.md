@@ -70,7 +70,7 @@ AI can help extract source material, organize patterns, test clarity, and compre
 
 RALS Method™ was created by Bob Manor. If you teach, adapt, or publish the method, use a clear attribution such as:
 
-> Based on the RALS Method™ — Riff, Anchor, Lift, Shred — created by Bob Manor. https://github.com/OWNER/REPOSITORY
+> Based on the RALS Method™ — Riff, Anchor, Lift, Shred — created by Bob Manor. https://github.com/bobmanor/rals-method
 
 Replace the placeholder URL after the repository is published. See [ATTRIBUTION-AND-TRADEMARK.md](ATTRIBUTION-AND-TRADEMARK.md).
 

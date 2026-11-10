@@ -36,7 +36,7 @@ Develop the implication. Show what the observation may mean, what changes when i
 
 ### Shred
 
-Remove repetition, performance, filler, unsupported certainty, and unnecessary pressure. End when the meaning has transferred. A CTA is optional and should appear only when the context genuinely requires one.
+Give the reader something practical to take away. What can they do, try, question, change, or apply using what they've just learned? The takeaway should follow naturally from the meaning, without forcing a sale or demanding agreement.
 
 ## A simple first pass
 
@@ -45,7 +45,7 @@ Write four rough answers:
 - What am I noticing?
 - What have I personally seen, done, or verified that grounds it?
 - What might another person recognize or conclude for themselves?
-- What can I remove without weakening the meaning?
+- What can someone actually do with this understanding?
 
 Then revise the answers into one natural piece. The labels are for thinking; they do not need to appear in the finished writing.
 

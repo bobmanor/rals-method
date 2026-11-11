@@ -10,7 +10,7 @@ For a short reference:
 
 For a page, workshop, or adaptation:
 
-> Based on the RALS Method™ — Riff, Anchor, Lift, Shred — created by Bob Manor. Source: [official repository URL]. Adapted by [name]; Bob Manor has not endorsed this adaptation unless expressly stated.
+> Based on the RALS Method™ — Riff, Anchor, Lift, Shred — created by Bob Manor. Source: https://github.com/bobmanor/rals-method . Adapted by [name]; Bob Manor has not endorsed this adaptation unless expressly stated.
 
 Good attribution should identify the method, creator, source, and material changes. It should not imply partnership, certification, endorsement, or approval.
 
